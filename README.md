@@ -14,6 +14,7 @@ The program converts decimal integers into their corresponding Roman numeral rep
 - Detects and reports:
 
   -- Non-integer input
+
   -- Out-of-range values
 
 - Written using standard C (GCC compatible)
