@@ -3,7 +3,7 @@
 A simple and robust Roman Numeral Converter written in C, using recursive logic and proper input validation.
 The program converts decimal integers into their corresponding Roman numeral representations, following classical Roman numeral rules.
 
-📌 ## Features
+📌 **Features**
 
 Converts integers from 1 to 3999 into Roman numerals
 
