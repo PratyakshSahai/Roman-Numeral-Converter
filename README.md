@@ -12,6 +12,7 @@ The program converts decimal integers into their corresponding Roman numeral rep
 - Handles subtractive notation correctly (IV, IX, XL, XC, CD, CM)
 
 - Detects and reports:
+
   -- Non-integer input
   -- Out-of-range values
 
